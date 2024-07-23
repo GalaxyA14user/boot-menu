@@ -1,0 +1,8 @@
+id=boot-menu
+name=Boot Menu
+author=BrotherBoard
+version=0.0.1
+versionCode=1
+description=Hacky boot menu with touch and volume and power key control. Experimental.
+minMagisk=20400
+api=5
