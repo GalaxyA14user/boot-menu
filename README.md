@@ -8,6 +8,5 @@ Install the magisk module from releases and reboot
 read the code
 
 # Notice
-Confirmed working on:
-Galaxy A145F
-Galaxy note 10
+Confirmed working on Galaxy A145F & Galaxy note 10
+Telegram: @GalaxyA14user
