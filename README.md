@@ -1,9 +1,6 @@
 # boot-menu
 A Simple magisk module that shows a boot menu before the OS starts. Easily customizable. Currently supports OneUI ext4 filesystems only. Experimental.
 
-# How to install
-Install the magisk module from releases and reboot
-
 # How does it work
 read the code
 
